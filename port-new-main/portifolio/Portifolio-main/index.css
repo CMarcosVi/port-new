@@ -359,11 +359,11 @@ body::-webkit-scrollbar {
     color: rgb(73, 0, 156);
 }
 #Carros{
-    background-image: url(/fotosProjetos/carrosMaisRapidosDoMundo.png); 
+    background-image: url(./fotosProjetos/carrosMaisRapidosDoMundo.png); 
     background-size: cover;
 }
 #CarrosCell{
-    background-image: url(/fotosProjetos/CarrosCell.png); 
+    background-image: url(./fotosProjetos/CarrosCell.png); 
     background-size: cover;
 }
 #tituloBank{
@@ -374,11 +374,11 @@ body::-webkit-scrollbar {
     -webkit-text-fill-color: transparent;
 }
 #Bank{
-    background-image: url(/fotosProjetos/bank.png); 
+    background-image: url(./fotosProjetos/bank.png); 
     background-size: cover;
 }
 #BankCell{
-    background-image: url(/fotosProjetos/bankCell.png);
+    background-image: url(./fotosProjetos/bankCell.png);
     background-size: cover;
 }
 #tituloPb{
@@ -386,11 +386,11 @@ body::-webkit-scrollbar {
     color: #f00;
 }
 #projectB{
-    background-image: url(/fotosProjetos/Project-B.png);
+    background-image: url(./fotosProjetos/Project-B.png);
     background-size: cover;
 }
 #projectBCell{
-    background-image: url(/fotosProjetos/ProjectBCell.png);
+    background-image: url(./fotosProjetos/ProjectBCell.png);
     background-size: cover;
 }
 
@@ -478,7 +478,6 @@ body::-webkit-scrollbar {
     margin: 0.5rem 0rem;
 }
 #idiomas{
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -811,7 +810,6 @@ body::-webkit-scrollbar {
         grid-template-columns: 1fr 1fr;
     }
     #idiomas{
-        height: 120vh;
         display: flex;
         flex-direction: column;
         justify-content: center;

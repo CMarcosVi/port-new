@@ -846,6 +846,9 @@ body::-webkit-scrollbar-thumb {
     }
 }
 @media screen and (max-width: 670px){
+    #Home{
+        height: 80vh;
+    }
     .tecnoProject{
         display: flex;
         flex-direction: column;
